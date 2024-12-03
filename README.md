@@ -1,6 +1,6 @@
 === ENGLISH VERSION BELOW ===
 
-Code Python pour l'approximation numérique de solutions d'EDS, via l'utilisation de l'Analyse Rétrograde (thélrie du champ modifié) et du Machine Learning pour l'approximation de ces champs modifiés.
+Code Python pour l'approximation numérique de solutions d'EDS, via l'utilisation de l'Analyse Rétrograde (théorie du champ modifié) et du Machine Learning pour l'approximation de ces champs modifiés.
 
 Etapes:
 
